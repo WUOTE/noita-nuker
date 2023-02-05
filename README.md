@@ -1,5 +1,7 @@
 # NOITA NUKER
 
+![Noita Nuker Logo](https://github.com/WUOTE/noita-nuker/blob/main/NoitaNukerLogo.png?raw=true)
+
 This is an archive with a `.bat` script, which allows you downloading every publically available Noita build (any of 230, see table below, you have to have Noita in your steam library).
 How to use: download [`noitanuker.zip`](https://github.com/WUOTE/noita-nuker/releases/download/V0.69-FULL-RELEASE/noitanuker.zip) from the latest release and unpack it.
 ==Important step==
