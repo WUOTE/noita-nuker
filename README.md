@@ -2,7 +2,9 @@
 
 ![Noita Nuker Logo](https://github.com/WUOTE/noita-nuker/blob/main/NoitaNukerLogo.png?raw=true)
 
-This is an archive with a `.bat` script, which allows you downloading every publically available Noita build (any of 230, see table below, you have to have Noita in your steam library).
+## TLDR: __Noita Nuker is a Time Machine for Noita__.
+
+This is an archive with a `.bat` script, which allows you downloading and playing every publically available Noita build (any of 230, see table below, you have to have Noita in your steam library).
 How to use: download [`noitanuker.zip`](https://github.com/WUOTE/noita-nuker/releases/download/V0.69-FULL-RELEASE/noitanuker.zip) from the latest release and unpack it.
 ==Important step==
 **Right click `NoitaNuker.bat` and choose "Run as Administrator".**
@@ -17,6 +19,7 @@ Reference:
 | :------------------------------- | :------------------ |  ------------: |
 | 23 April 2021 – 14:28:19 UTC     |  226707737181927261 |   noitabeta    |
 | 22 April 2021 – 20:41:45 UTC     | 5216866469007282729 |                |
+| 23 April 2021 – 14:28:19 UTC     |  226707737181927261 |   noitabeta    |
 | 22 April 2021 – 15:08:05 UTC     | 7133704448318045119 |   noitabeta    |
 | 21 April 2021 – 20:51:57 UTC     | 5928739636451927776 |   noitabeta    |
 | 20 April 2021 – 17:06:39 UTC     | 3887255063395930573 |   noitabeta    |
