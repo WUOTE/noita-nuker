@@ -14,9 +14,19 @@ Login with steam. After that the build will download and launch.
 
 Note: SteamRE's Depot downloader (DD) comes as part of the archive, this is what is used to download builds. DD has been repacked as self-contained in order to save you several clicks requiring .Net 6.0 download and installation.
 
-Reference: 
+Reference (I use [Steam DB to get manifests](https://steamdb.info/depot/881101/manifests/)): 
 | Release Date                     |          Build (ManifestID) | Release notes |   Branch/Tag   |
 | :------------------------------- | :------------------ |  :------------------ | ------------: |
+| 6 March 2023 – 17:38:53 UTC | `8185016366725795064` | release notes has not been added here yet | noitabeta |
+| 5 March 2023 – 11:03:22 UTC | `4332755115058402452` | release notes has not been added here yet | noitabeta |
+| 3 March 2023 – 17:56:11 UTC | `3889233971134129956` | release notes has not been added here yet | noitabeta |
+| 2 March 2023 – 16:15:43 UTC | `7217526811304054195` | release notes has not been added here yet | noitabeta |
+| 1 March 2023 – 14:45:21 UTC | `5494639879028694064` | release notes has not been added here yet | noitabeta |
+| 28 February 2023 – 15:19:02 UTC | `6794393583745165429` | release notes has not been added here yet | |
+| 28 February 2023 – 14:12:02 UTC | `8218037640079617990` | release notes has not been added here yet | noitabeta |
+| 28 February 2023 – 10:36:30 UTC | `5844277561650969360` | release notes has not been added here yet | noitabeta |
+| 27 February 2023 – 13:53:14 UTC | `4845123095886604426` | release notes has not been added here yet | noitabeta |
+| 23 April 2021 – 17:11:48 UTC | `654912509375559664` | release notes has not been added here yet | |
 | 23 April 2021 – 14:28:19 UTC     |  `226707737181927261` | [Release notes](https://github.com/WUOTE/noita-nuker/blob/main/NOITA_BUILDS_RELEASE_NOTES/226707737181927261/_release_notes.txt) |   noitabeta    |
 | 22 April 2021 – 20:41:45 UTC     | `5216866469007282729` | [Release notes](https://github.com/WUOTE/noita-nuker/blob/main/NOITA_BUILDS_RELEASE_NOTES/5216866469007282729/_release_notes.txt) |                |
 | 23 April 2021 – 14:28:19 UTC     |  `226707737181927261` | [Release notes](https://github.com/WUOTE/noita-nuker/blob/main/NOITA_BUILDS_RELEASE_NOTES/226707737181927261/_release_notes.txt) |   noitabeta    |
